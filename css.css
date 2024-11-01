@@ -1,0 +1,77 @@
+.xmpt_ajax_message{
+	font-family:inherit;
+	font-size:inherit;
+	padding:4px;
+	margin-bottom:4px;
+	border:1px solid;	
+	text-align:left
+}
+
+.xmpt_ajax_message.error{
+	border-color:#FFFF00;
+	color:#FFFFFF;
+	background-color:#D54E21
+}
+
+.xmpt_ajax_message.info{
+	border-color:#E6DB55;
+	color:#000000;
+	background-color:#FFFBCC
+}
+
+.xmpt_ajax_progress{
+	background:URL(img/ajax-process.gif) no-repeat top center;
+}
+
+.xhanch_my_prayer_time_table .header{
+	color: black; 
+	background-color: #F8F7F4;
+	padding:2px;
+	text-align:center;
+	font-weight:bold
+}
+
+.xhanch_my_prayer_time_table{
+	border-width: 1px; 
+	border-style: outset; 
+	border-collapse: collapse; 
+	border-color: gray;
+}
+
+.xhanch_my_prayer_time_table td{
+	border-width: 1px; 
+	border-spacing: 1px; 
+	padding: 2px; 
+	border-style: inset; 
+	border-color: #CCCCCC;
+	text-align:center;
+	margin-top:7px
+}
+
+#xhanch_my_prayer_time .credit{
+	font-size:10px;
+	text-align:right;
+}
+
+#xhanch_my_prayer_time .credit a{
+	text-decoration:none;
+	font-size:10px
+}
+
+#xhanch_my_prayer_time .credit a:hover{
+	text-decoration:underline;
+}
+
+#xhanch_my_prayer_time_table .credit{
+	font-size:10px;
+	text-align:right;
+}
+
+#xhanch_my_prayer_time_table .credit a{
+	text-decoration:none;
+	font-size:10px
+}
+
+#xhanch_my_prayer_time_table .credit a:hover{
+	text-decoration:underline;
+}
